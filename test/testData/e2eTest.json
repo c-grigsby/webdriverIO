@@ -1,0 +1,17 @@
+[
+  {
+    "username": "rahulshettyacademy",
+    "password": "learning",
+    "products": ["Blackberry", "Nokia Edge"]
+  },
+  {
+    "username": "rahulshettyacademy",
+    "password": "learning123456%$",
+    "products": ["Blackberry", "iphone x"]
+  },
+  {
+    "username": "rahulshettyacademy",
+    "password": "learning",
+    "products": ["Blackberry", "iphone x"]
+  }
+]
